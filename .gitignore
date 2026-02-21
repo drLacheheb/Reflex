@@ -35,4 +35,8 @@ npm-debug.log*
 .DS_Store
 *.pem
 
+# JetBrains temp files
 /.idea/
+
+#Sentry env files
+.env.sentry-build-plugin
